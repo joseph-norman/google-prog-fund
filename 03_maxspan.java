@@ -3,9 +3,6 @@
 // A single value has a span of 1. 
 
 // Returns the largest span found in the given array. (Efficiency is not a priority.)
-// It could be ANY number. FFS.
-// So the last example its going to be 4, because the distance between them is 6 in length.
-// So find the biggest distance between two identical numbers in the Array. That's it.
 // maxSpan([1, 2, 1, 1, 3]) → 4
 // maxSpan([1, 4, 2, 1, 4, 1, 4]) → 6
 // maxSpan([1, 4, 2, 1, 4, 4, 4]) → 6
